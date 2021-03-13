@@ -1,7 +1,7 @@
 # DataScience_NYC
 Data Science Project: NYC Airbnb and LandMarks data analysis
 
-##New York AIRBNB - DATA EXPLORATION
+## New York AIRBNB - DATA EXPLORATION
 This project comprises of data exploration,hypothesis testing and machine learning on an open data set of New York City Airbnb. (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 Relevant insights from datasets were used to evaluate how the proximity to important landmarks/ tourist sights affect the listing price and number of listings in each borough. 
 For this purpose we used a supplementary dataset listed below:
